@@ -1,0 +1,1001 @@
+Comment_ID,Username,Timestamp,Comment_Text,Likes_Count,Sentiment_Label
+1,user_68,2024-12-18 21:18:06.921145,It's fine.,2601,neutral
+2,user_61,2024-11-04 13:35:25.921145,No strong feelings.,3424,neutral
+3,user_41,2024-12-18 07:55:49.921145,Not sure what to say.,1230,neutral
+4,user_54,2025-01-03 22:49:31.921145,Worst ever!,4703,negative
+5,user_32,2024-11-10 22:36:18.921145,Horrible!,4301,negative
+6,user_18,2024-12-03 17:00:48.921145,Fantastic!,1336,positive
+7,user_37,2025-02-13 10:14:03.921145,I can't believe this...,3940,negative
+8,user_27,2025-02-03 23:53:00.921145,This made my day!,4700,positive
+9,user_15,2025-02-13 08:51:13.921145,I can't believe this...,2958,negative
+10,user_60,2024-12-20 13:46:07.921145,Nothing special.,3937,neutral
+11,user_13,2025-01-24 22:54:28.921145,Worst ever!,1652,negative
+12,user_68,2024-09-06 14:17:42.921145,Amazing work!,1806,positive
+13,user_8,2024-11-22 22:13:38.921145,Absolutely stunning!,4628,positive
+14,user_1,2024-09-15 17:13:58.921145,This is terrible!,3868,negative
+15,user_30,2024-10-17 01:01:15.921145,Not sure what to say.,880,neutral
+16,user_84,2025-02-05 11:02:52.921145,Not a fan at all.,369,negative
+17,user_90,2025-01-31 13:51:08.921145,It's fine.,4536,neutral
+18,user_33,2024-09-29 23:00:21.921145,Could be better.,4528,neutral
+19,user_77,2024-11-19 01:20:27.921145,Really bad experience.,698,negative
+20,user_39,2025-01-05 23:05:01.921145,I can't believe this...,4118,negative
+21,user_64,2024-10-02 22:17:06.921145,Absolutely stunning!,1285,positive
+22,user_92,2024-12-15 10:19:26.921145,It's fine.,1536,neutral
+23,user_39,2024-09-15 23:36:55.921145,This is awesome!,723,positive
+24,user_47,2024-11-02 16:09:09.921145,Not sure what to say.,1442,neutral
+25,user_39,2025-02-22 00:08:12.921145,I love this!,4874,positive
+26,user_52,2025-01-03 23:39:50.921145,Meh.,2758,neutral
+27,user_25,2025-01-11 01:18:05.921145,I hate this!,1848,negative
+28,user_48,2024-12-29 14:46:51.921145,I hate this!,4592,negative
+29,user_57,2024-12-22 18:52:51.921145,This is awesome!,1749,positive
+30,user_80,2024-12-12 22:56:48.921145,This is awful.,4689,negative
+31,user_10,2025-01-02 12:07:23.921145,I hate this!,1224,negative
+32,user_4,2025-02-18 10:04:17.921145,I hate this!,873,negative
+33,user_78,2025-03-01 13:48:49.921145,Fantastic!,3457,positive
+34,user_16,2024-09-18 12:10:58.921145,I love this!,2311,positive
+35,user_92,2024-10-24 09:44:32.921145,It's fine.,2664,neutral
+36,user_76,2025-01-03 00:13:52.921145,It's okay.,4572,neutral
+37,user_92,2024-09-08 23:25:28.921145,Just another post.,256,neutral
+38,user_1,2024-10-13 03:02:14.921145,Meh.,1082,neutral
+39,user_78,2024-10-02 15:20:15.921145,This is awesome!,2964,positive
+40,user_16,2025-03-02 12:40:23.921145,I've seen this before.,394,neutral
+41,user_59,2024-09-30 12:17:56.921145,Keep it up!,4621,positive
+42,user_62,2025-02-22 05:37:15.921145,Meh.,1977,neutral
+43,user_43,2024-11-26 05:15:44.921145,No strong feelings.,3809,neutral
+44,user_77,2024-12-30 12:59:38.921145,This is awesome!,2355,positive
+45,user_39,2025-02-14 08:51:01.921145,This made my day!,1861,positive
+46,user_19,2024-09-28 08:37:26.921145,Average post.,2388,neutral
+47,user_9,2024-10-16 02:22:00.921145,Really bad experience.,4627,negative
+48,user_25,2024-09-21 03:07:41.921145,So inspiring!,1813,positive
+49,user_63,2024-09-16 10:01:50.921145,Absolutely stunning!,3038,positive
+50,user_95,2025-01-24 22:22:04.921145,It's okay.,3670,neutral
+51,user_71,2024-11-16 06:31:39.921145,It's fine.,3065,neutral
+52,user_23,2024-10-06 17:50:28.921145,Really bad experience.,2598,negative
+53,user_89,2024-12-22 13:56:39.921145,Meh.,4300,neutral
+54,user_65,2024-11-30 15:21:11.921145,This made my day!,721,positive
+55,user_37,2024-12-28 05:34:20.921145,So disappointing!,761,negative
+56,user_88,2025-01-02 14:17:57.921145,I hate this!,1506,negative
+57,user_64,2024-11-13 04:41:56.921145,I love this!,2245,positive
+58,user_15,2024-10-06 22:07:46.921145,Average post.,3852,neutral
+59,user_29,2024-09-12 23:40:15.921145,Best thing ever!,471,positive
+60,user_86,2024-09-11 06:50:41.921145,It's okay.,1637,neutral
+61,user_57,2025-02-14 11:47:50.921145,This is terrible!,3925,negative
+62,user_44,2025-03-01 12:46:13.921145,I can't believe this...,764,negative
+63,user_54,2024-12-09 12:40:14.921145,Worst ever!,811,negative
+64,user_40,2024-12-28 22:22:43.921145,I hate this!,3754,negative
+65,user_38,2025-01-05 04:56:41.921145,This is awesome!,497,positive
+66,user_66,2024-11-01 18:05:38.921145,I love this!,3763,positive
+67,user_42,2024-10-05 09:27:42.921145,I've seen this before.,4076,neutral
+68,user_59,2024-12-13 10:39:35.921145,It's okay.,3272,neutral
+69,user_4,2024-09-19 22:11:19.921145,Absolutely stunning!,1830,positive
+70,user_57,2025-02-22 22:32:53.921145,Horrible!,3007,negative
+71,user_62,2025-02-13 06:56:33.921145,This made my day!,1470,positive
+72,user_53,2024-12-23 12:00:34.921145,Not a fan at all.,4229,negative
+73,user_50,2024-11-20 21:33:01.921145,This is awesome!,4336,positive
+74,user_43,2025-01-25 02:05:28.921145,I can't believe this...,84,negative
+75,user_10,2024-09-13 15:40:03.921145,It's okay.,3332,neutral
+76,user_96,2024-10-09 18:01:45.921145,I love this!,4736,positive
+77,user_28,2024-12-02 11:10:51.921145,Worst ever!,4334,negative
+78,user_64,2024-10-31 09:30:05.921145,Nothing special.,3762,neutral
+79,user_84,2024-10-14 06:16:41.921145,I'm so happy to see this!,780,positive
+80,user_79,2024-11-08 22:04:54.921145,It's okay.,4402,neutral
+81,user_93,2024-11-04 20:46:49.921145,This is terrible!,1847,negative
+82,user_47,2024-09-18 04:53:37.921145,I hate this!,574,negative
+83,user_89,2025-01-27 15:32:47.921145,So disappointing!,214,negative
+84,user_99,2024-09-08 23:52:49.921145,Not a fan at all.,50,negative
+85,user_9,2024-10-14 13:48:07.921145,Absolutely stunning!,4463,positive
+86,user_19,2024-11-29 11:10:20.921145,Fantastic!,1574,positive
+87,user_53,2025-01-11 12:52:02.921145,Amazing work!,3682,positive
+88,user_52,2025-01-24 21:32:43.921145,No strong feelings.,980,neutral
+89,user_36,2025-03-03 16:36:12.921145,No strong feelings.,400,neutral
+90,user_51,2024-10-11 14:11:12.921145,Just another post.,4694,neutral
+91,user_36,2024-09-10 01:02:50.921145,Fantastic!,1591,positive
+92,user_36,2024-09-18 14:41:37.921145,I've seen this before.,1694,neutral
+93,user_23,2025-02-06 14:14:55.921145,I can't believe this...,2914,negative
+94,user_55,2024-09-07 02:28:04.921145,Amazing work!,4937,positive
+95,user_99,2024-12-16 17:09:47.921145,Best thing ever!,531,positive
+96,user_81,2025-02-01 23:34:23.921145,Absolutely stunning!,3755,positive
+97,user_90,2025-01-07 22:32:06.921145,Not a fan at all.,2648,negative
+98,user_81,2024-09-15 03:01:32.921145,Just another post.,3073,neutral
+99,user_59,2025-02-25 01:20:43.921145,I love this!,3008,positive
+100,user_14,2025-01-25 03:24:46.921145,This is awesome!,741,positive
+101,user_58,2025-01-31 10:03:16.921145,Meh.,3898,neutral
+102,user_43,2024-10-11 01:01:30.921145,Fantastic!,4119,positive
+103,user_75,2024-10-19 00:44:35.921145,Meh.,1188,neutral
+104,user_91,2024-12-22 18:02:35.921145,Nothing special.,3550,neutral
+105,user_12,2024-11-03 16:39:05.921145,I love this!,1468,positive
+106,user_49,2024-09-22 10:38:35.921145,Meh.,588,neutral
+107,user_33,2025-01-02 04:57:38.921145,Worst ever!,4661,negative
+108,user_90,2024-09-13 15:43:16.921145,I'm so happy to see this!,1487,positive
+109,user_29,2025-02-05 04:56:59.921145,Not a fan at all.,1941,negative
+110,user_32,2025-01-22 07:45:00.921145,This is terrible!,3034,negative
+111,user_80,2025-01-30 02:06:49.921145,This makes me sad.,2066,negative
+112,user_95,2025-02-02 15:44:40.921145,I hate this!,1427,negative
+113,user_93,2025-01-01 23:53:31.921145,Could be better.,4661,neutral
+114,user_69,2024-12-07 05:48:05.921145,This is awful.,4224,negative
+115,user_30,2024-10-26 17:55:08.921145,Average post.,1117,neutral
+116,user_99,2024-11-27 20:51:39.921145,So disappointing!,4603,negative
+117,user_61,2024-09-24 11:04:24.921145,No strong feelings.,1246,neutral
+118,user_87,2024-10-31 16:19:34.921145,Not sure what to say.,1012,neutral
+119,user_88,2024-11-23 18:55:47.921145,I've seen this before.,2519,neutral
+120,user_6,2024-11-01 06:33:32.921145,So disappointing!,3325,negative
+121,user_86,2024-11-24 22:32:57.921145,Could be better.,1201,neutral
+122,user_79,2024-11-30 10:54:07.921145,No strong feelings.,2925,neutral
+123,user_46,2024-10-01 17:26:28.921145,Could be better.,135,neutral
+124,user_37,2024-10-07 07:30:38.921145,Not a fan at all.,2330,negative
+125,user_48,2024-11-04 23:25:41.921145,Absolutely stunning!,2960,positive
+126,user_43,2025-01-15 20:37:28.921145,Could be better.,2191,neutral
+127,user_80,2024-09-18 04:22:15.921145,Fantastic!,3290,positive
+128,user_62,2024-12-03 07:06:26.921145,Horrible!,257,negative
+129,user_39,2024-11-05 19:34:04.921145,This makes me sad.,548,negative
+130,user_41,2025-01-08 22:19:38.921145,It's okay.,2797,neutral
+131,user_6,2025-02-04 10:42:04.921145,I'm so happy to see this!,1489,positive
+132,user_24,2024-12-23 01:47:51.921145,This is awesome!,31,positive
+133,user_82,2024-09-25 13:40:48.921145,Not a fan at all.,4535,negative
+134,user_34,2024-11-03 13:16:59.921145,Fantastic!,1400,positive
+135,user_89,2024-12-14 00:48:42.921145,Absolutely stunning!,2244,positive
+136,user_67,2024-12-02 08:10:57.921145,Meh.,4134,neutral
+137,user_6,2024-09-11 00:13:14.921145,It's okay.,457,neutral
+138,user_97,2025-01-13 11:53:05.921145,This is awesome!,1575,positive
+139,user_52,2024-11-16 03:30:09.921145,Meh.,116,neutral
+140,user_27,2024-10-19 09:58:50.921145,So disappointing!,827,negative
+141,user_71,2025-02-12 11:04:38.921145,Average post.,2972,neutral
+142,user_69,2024-10-07 21:13:25.921145,Best thing ever!,878,positive
+143,user_64,2024-12-13 17:10:02.921145,Could be better.,4391,neutral
+144,user_60,2024-11-01 08:35:42.921145,This is awesome!,2157,positive
+145,user_4,2024-10-13 21:46:15.921145,It's fine.,1845,neutral
+146,user_60,2024-12-12 14:25:56.921145,Average post.,2073,neutral
+147,user_39,2024-11-04 00:21:48.921145,Nothing special.,2733,neutral
+148,user_49,2024-09-12 10:40:40.921145,So disappointing!,412,negative
+149,user_31,2024-09-09 20:21:10.921145,I've seen this before.,3785,neutral
+150,user_96,2024-09-06 07:51:53.921145,No strong feelings.,2977,neutral
+151,user_93,2024-12-22 07:16:07.921145,I love this!,2958,positive
+152,user_16,2024-12-25 12:19:50.921145,Really bad experience.,2128,negative
+153,user_42,2024-10-22 05:25:54.921145,Just another post.,4230,neutral
+154,user_35,2025-01-20 06:49:32.921145,Worst ever!,4282,negative
+155,user_52,2024-10-19 08:57:10.921145,Nothing special.,807,neutral
+156,user_31,2024-10-29 15:57:16.921145,No strong feelings.,4708,neutral
+157,user_96,2025-01-22 13:38:07.921145,So disappointing!,4389,negative
+158,user_89,2024-10-25 08:58:39.921145,Could be better.,606,neutral
+159,user_92,2025-02-02 23:20:49.921145,Just another post.,1605,neutral
+160,user_37,2024-09-27 12:41:53.921145,Amazing work!,4556,positive
+161,user_50,2024-12-08 17:12:00.921145,This is awesome!,355,positive
+162,user_47,2024-09-09 10:08:36.921145,Absolutely stunning!,3239,positive
+163,user_93,2025-01-04 02:34:38.921145,Nothing special.,2121,neutral
+164,user_26,2024-10-05 02:45:40.921145,This made my day!,2735,positive
+165,user_95,2025-01-29 06:33:49.921145,This makes me sad.,337,negative
+166,user_95,2024-10-01 03:47:31.921145,Absolutely stunning!,4598,positive
+167,user_81,2025-03-04 23:55:05.921145,I love this!,2218,positive
+168,user_1,2024-10-14 06:59:31.921145,Worst ever!,2325,negative
+169,user_93,2024-10-08 04:04:55.921145,This is awful.,1070,negative
+170,user_33,2025-02-16 19:55:15.921145,Not a fan at all.,2847,negative
+171,user_12,2024-11-12 16:20:44.921145,Best thing ever!,1015,positive
+172,user_44,2025-02-25 11:31:31.921145,I love this!,1650,positive
+173,user_42,2024-11-17 05:30:02.921145,I've seen this before.,4246,neutral
+174,user_50,2024-12-06 09:56:54.921145,Nothing special.,4027,neutral
+175,user_57,2024-11-20 13:22:45.921145,This is awful.,2066,negative
+176,user_72,2024-10-31 22:24:19.921145,It's okay.,1870,neutral
+177,user_41,2024-09-14 15:23:43.921145,Could be better.,3039,neutral
+178,user_70,2025-01-04 10:26:09.921145,Horrible!,2410,negative
+179,user_68,2024-12-11 12:35:17.921145,This is awful.,3301,negative
+180,user_32,2024-11-01 15:10:42.921145,Really bad experience.,3700,negative
+181,user_27,2024-10-02 02:51:59.921145,Absolutely stunning!,4611,positive
+182,user_62,2024-10-14 02:45:45.921145,Worst ever!,4170,negative
+183,user_98,2025-01-19 06:07:12.921145,No strong feelings.,1944,neutral
+184,user_87,2024-10-09 09:12:03.921145,I love this!,3970,positive
+185,user_42,2024-10-10 09:33:23.921145,This is awesome!,4527,positive
+186,user_7,2025-02-05 21:29:39.921145,I've seen this before.,3868,neutral
+187,user_50,2025-02-13 22:10:47.921145,I'm so happy to see this!,3075,positive
+188,user_19,2024-10-15 01:19:58.921145,I can't believe this...,1339,negative
+189,user_46,2025-03-04 11:05:02.921145,Really bad experience.,2903,negative
+190,user_4,2024-11-26 22:46:56.921145,So inspiring!,1014,positive
+191,user_76,2024-10-14 15:15:42.921145,I'm so happy to see this!,3857,positive
+192,user_40,2024-09-06 18:45:39.921145,Average post.,1656,neutral
+193,user_76,2025-02-01 17:54:42.921145,This is awful.,3334,negative
+194,user_17,2024-09-24 17:20:02.921145,Really bad experience.,717,negative
+195,user_73,2024-12-06 13:57:59.921145,Horrible!,2713,negative
+196,user_98,2025-02-22 21:46:11.921145,Absolutely stunning!,3285,positive
+197,user_51,2024-12-23 14:13:03.921145,It's fine.,1867,neutral
+198,user_64,2024-09-22 03:50:09.921145,Worst ever!,3021,negative
+199,user_52,2024-10-31 18:12:14.921145,Just another post.,4629,neutral
+200,user_43,2025-02-15 02:09:27.921145,Average post.,3237,neutral
+201,user_64,2024-10-01 14:35:23.921145,Just another post.,4340,neutral
+202,user_24,2025-02-14 20:16:34.921145,This makes me sad.,77,negative
+203,user_17,2024-11-22 17:58:00.921145,So disappointing!,1347,negative
+204,user_61,2024-11-18 01:20:22.921145,Keep it up!,3115,positive
+205,user_26,2024-11-18 10:03:15.921145,Could be better.,348,neutral
+206,user_92,2025-02-04 17:31:58.921145,So disappointing!,1920,negative
+207,user_26,2024-10-03 07:19:02.921145,Best thing ever!,2507,positive
+208,user_43,2024-12-22 02:54:11.921145,Horrible!,3044,negative
+209,user_3,2025-01-10 00:10:24.921145,This is awesome!,1351,positive
+210,user_62,2024-09-19 08:00:46.921145,This is awful.,878,negative
+211,user_36,2025-02-24 13:11:39.921145,This is awful.,3377,negative
+212,user_42,2025-02-10 03:53:18.921145,Not a fan at all.,4158,negative
+213,user_5,2025-01-01 08:41:53.921145,Not a fan at all.,1171,negative
+214,user_56,2024-09-11 09:33:43.921145,Not a fan at all.,4953,negative
+215,user_64,2025-01-09 21:11:42.921145,Average post.,3085,neutral
+216,user_100,2024-11-18 20:26:30.921145,This is awful.,3404,negative
+217,user_4,2024-12-08 11:25:36.921145,Meh.,2206,neutral
+218,user_29,2024-09-28 16:32:16.921145,This is terrible!,1982,negative
+219,user_57,2025-03-03 08:36:48.921145,It's fine.,1834,neutral
+220,user_17,2025-01-31 18:52:33.921145,Average post.,3742,neutral
+221,user_41,2025-02-14 07:38:30.921145,So disappointing!,131,negative
+222,user_30,2024-10-09 15:47:44.921145,This made my day!,701,positive
+223,user_47,2024-11-07 20:25:35.921145,Horrible!,1319,negative
+224,user_57,2024-12-23 07:20:22.921145,This is terrible!,3013,negative
+225,user_80,2025-03-04 02:56:58.921145,Best thing ever!,2672,positive
+226,user_15,2024-10-16 14:39:11.921145,This is terrible!,91,negative
+227,user_28,2024-12-03 23:56:50.921145,This makes me sad.,1825,negative
+228,user_67,2025-02-10 21:58:44.921145,This made my day!,770,positive
+229,user_100,2024-12-31 10:26:19.921145,So disappointing!,561,negative
+230,user_68,2024-12-21 15:26:16.921145,So disappointing!,3824,negative
+231,user_35,2025-01-19 00:26:53.921145,It's okay.,2420,neutral
+232,user_47,2025-03-02 22:28:14.921145,Amazing work!,3817,positive
+233,user_33,2024-10-20 04:14:10.921145,I hate this!,3866,negative
+234,user_44,2025-01-29 17:14:16.921145,Just another post.,3779,neutral
+235,user_37,2024-10-01 04:37:41.921145,Could be better.,3833,neutral
+236,user_79,2024-09-27 07:40:13.921145,Really bad experience.,2486,negative
+237,user_6,2024-09-24 13:43:27.921145,It's fine.,4519,neutral
+238,user_5,2024-10-14 01:22:13.921145,Nothing special.,1722,neutral
+239,user_13,2024-10-08 10:45:08.921145,Horrible!,3885,negative
+240,user_45,2024-09-22 11:33:12.921145,Amazing work!,2948,positive
+241,user_63,2024-12-29 02:02:15.921145,So inspiring!,2454,positive
+242,user_67,2024-12-06 18:45:02.921145,So disappointing!,3710,negative
+243,user_44,2025-01-10 14:01:03.921145,Absolutely stunning!,1352,positive
+244,user_74,2025-02-08 12:18:17.921145,Just another post.,1979,neutral
+245,user_48,2025-02-17 19:17:36.921145,This is terrible!,668,negative
+246,user_65,2024-09-26 12:56:54.921145,This made my day!,4211,positive
+247,user_67,2025-02-09 14:41:53.921145,This made my day!,188,positive
+248,user_82,2024-10-23 07:24:03.921145,Not a fan at all.,560,negative
+249,user_65,2025-03-03 01:19:44.921145,So inspiring!,1149,positive
+250,user_65,2025-01-07 16:19:36.921145,Not sure what to say.,1634,neutral
+251,user_64,2024-10-21 04:47:30.921145,This is awesome!,4499,positive
+252,user_49,2024-09-17 00:52:26.921145,I can't believe this...,2544,negative
+253,user_82,2025-01-12 19:56:08.921145,Worst ever!,2668,negative
+254,user_28,2024-10-05 10:06:46.921145,Meh.,322,neutral
+255,user_82,2025-02-07 10:04:00.921145,Meh.,4727,neutral
+256,user_10,2025-01-27 08:24:28.921145,Worst ever!,4624,negative
+257,user_91,2024-11-05 10:19:50.921145,It's fine.,3144,neutral
+258,user_69,2024-10-08 08:41:27.921145,This makes me sad.,2878,negative
+259,user_72,2025-02-17 23:48:27.921145,I'm so happy to see this!,2353,positive
+260,user_57,2024-11-06 01:29:43.921145,This made my day!,29,positive
+261,user_15,2024-10-25 11:37:31.921145,Nothing special.,506,neutral
+262,user_43,2024-09-07 17:07:34.921145,It's okay.,2149,neutral
+263,user_61,2025-01-21 21:44:33.921145,This is terrible!,2396,negative
+264,user_69,2025-01-31 09:34:49.921145,This is awful.,3194,negative
+265,user_51,2024-09-20 09:15:02.921145,I'm so happy to see this!,3132,positive
+266,user_54,2024-09-30 03:01:49.921145,Average post.,1393,neutral
+267,user_55,2024-09-12 09:03:34.921145,This made my day!,2457,positive
+268,user_79,2024-11-28 13:36:08.921145,This is awesome!,4063,positive
+269,user_80,2024-12-24 13:31:41.921145,This makes me sad.,3293,negative
+270,user_40,2025-01-26 11:56:55.921145,I'm so happy to see this!,3732,positive
+271,user_100,2024-11-19 05:54:43.921145,Could be better.,2850,neutral
+272,user_56,2025-02-10 23:08:36.921145,So disappointing!,4703,negative
+273,user_57,2024-10-20 02:32:35.921145,I've seen this before.,4995,neutral
+274,user_33,2025-01-27 11:55:06.921145,This made my day!,52,positive
+275,user_58,2024-10-03 20:25:30.921145,I can't believe this...,1779,negative
+276,user_81,2024-09-09 05:07:21.921145,This made my day!,2173,positive
+277,user_59,2024-11-07 23:27:48.921145,I've seen this before.,3105,neutral
+278,user_14,2025-02-18 15:58:29.921145,I'm so happy to see this!,3476,positive
+279,user_76,2024-11-01 03:20:35.921145,I've seen this before.,4935,neutral
+280,user_47,2025-01-08 10:41:40.921145,Horrible!,1986,negative
+281,user_59,2024-11-04 06:36:55.921145,This is terrible!,144,negative
+282,user_82,2024-11-25 08:02:19.921145,This made my day!,2074,positive
+283,user_24,2024-12-31 19:24:48.921145,This is terrible!,3565,negative
+284,user_100,2025-01-31 16:14:36.921145,So disappointing!,493,negative
+285,user_43,2025-01-02 03:50:14.921145,Best thing ever!,2043,positive
+286,user_37,2024-09-18 05:19:56.921145,This is terrible!,3576,negative
+287,user_21,2024-11-05 12:52:15.921145,Keep it up!,2787,positive
+288,user_64,2024-11-19 01:07:00.921145,This makes me sad.,3919,negative
+289,user_98,2024-11-04 09:46:51.921145,So inspiring!,2219,positive
+290,user_65,2024-09-24 16:27:58.921145,No strong feelings.,1136,neutral
+291,user_89,2025-02-01 18:15:57.921145,Horrible!,3772,negative
+292,user_68,2024-09-19 15:53:08.921145,Not sure what to say.,2129,neutral
+293,user_1,2024-12-12 10:45:57.921145,Absolutely stunning!,1848,positive
+294,user_76,2024-11-30 20:31:01.921145,Worst ever!,4406,negative
+295,user_63,2024-09-27 10:46:23.921145,Could be better.,3559,neutral
+296,user_15,2025-01-18 02:22:16.921145,Really bad experience.,4043,negative
+297,user_41,2024-09-06 03:11:15.921145,Just another post.,4728,neutral
+298,user_9,2025-02-03 13:53:34.921145,So inspiring!,4351,positive
+299,user_16,2025-02-25 18:37:11.921145,I've seen this before.,1135,neutral
+300,user_62,2025-02-03 17:41:34.921145,Keep it up!,638,positive
+301,user_83,2024-11-26 13:00:19.921145,Keep it up!,3887,positive
+302,user_79,2025-02-08 02:18:28.921145,It's fine.,3461,neutral
+303,user_24,2024-12-26 10:36:04.921145,Could be better.,2225,neutral
+304,user_75,2024-12-27 09:05:05.921145,Fantastic!,1375,positive
+305,user_10,2024-12-19 03:09:34.921145,Not sure what to say.,4895,neutral
+306,user_43,2024-09-07 18:43:33.921145,It's fine.,2157,neutral
+307,user_23,2025-01-02 23:09:44.921145,This is terrible!,2755,negative
+308,user_48,2024-10-01 14:17:58.921145,Best thing ever!,3895,positive
+309,user_49,2024-12-19 03:45:56.921145,Fantastic!,766,positive
+310,user_68,2024-10-09 15:52:45.921145,It's fine.,3400,neutral
+311,user_44,2025-02-26 13:07:21.921145,Could be better.,4539,neutral
+312,user_49,2024-11-04 04:13:36.921145,This is awful.,4991,negative
+313,user_65,2024-12-22 20:22:54.921145,I hate this!,3654,negative
+314,user_38,2024-12-29 11:27:23.921145,Absolutely stunning!,52,positive
+315,user_83,2024-09-07 16:03:16.921145,I can't believe this...,4705,negative
+316,user_35,2024-11-02 13:41:58.921145,This makes me sad.,3269,negative
+317,user_18,2024-09-08 00:07:25.921145,It's okay.,779,neutral
+318,user_47,2024-10-06 17:58:39.921145,Best thing ever!,2678,positive
+319,user_84,2024-09-12 13:11:27.921145,This is terrible!,2139,negative
+320,user_83,2024-09-15 07:31:58.921145,Absolutely stunning!,542,positive
+321,user_28,2024-11-02 17:17:17.921145,I'm so happy to see this!,2997,positive
+322,user_64,2024-12-09 19:03:43.921145,I'm so happy to see this!,4606,positive
+323,user_27,2024-10-05 10:13:33.921145,I love this!,978,positive
+324,user_76,2024-12-05 20:40:43.921145,This made my day!,3752,positive
+325,user_90,2024-09-10 21:01:33.921145,This is awful.,3883,negative
+326,user_70,2024-12-29 04:24:21.921145,This is terrible!,4,negative
+327,user_63,2024-11-02 02:49:21.921145,I love this!,1717,positive
+328,user_55,2025-01-16 19:40:12.921145,Average post.,4103,neutral
+329,user_2,2025-01-27 18:48:30.921145,Really bad experience.,1783,negative
+330,user_50,2024-11-11 10:21:09.921145,I'm so happy to see this!,738,positive
+331,user_56,2025-03-02 16:58:08.921145,I can't believe this...,3525,negative
+332,user_45,2024-12-13 16:53:06.921145,Meh.,509,neutral
+333,user_77,2025-02-08 04:09:38.921145,This made my day!,1135,positive
+334,user_59,2024-12-03 15:06:11.921145,I'm so happy to see this!,4186,positive
+335,user_50,2024-09-07 06:32:08.921145,Really bad experience.,611,negative
+336,user_65,2024-09-08 01:03:47.921145,Horrible!,566,negative
+337,user_71,2025-01-01 23:33:12.921145,I can't believe this...,2136,negative
+338,user_32,2024-12-17 03:45:01.921145,I love this!,2176,positive
+339,user_66,2024-12-14 18:14:27.921145,This makes me sad.,3820,negative
+340,user_49,2025-01-06 08:18:50.921145,I'm so happy to see this!,3677,positive
+341,user_31,2025-01-30 18:10:26.921145,It's fine.,24,neutral
+342,user_71,2024-11-08 05:37:41.921145,Average post.,395,neutral
+343,user_94,2025-01-21 20:53:17.921145,So inspiring!,913,positive
+344,user_61,2024-12-04 14:49:15.921145,Horrible!,4016,negative
+345,user_45,2024-10-26 23:06:12.921145,Best thing ever!,1099,positive
+346,user_58,2025-02-26 19:55:08.921145,I love this!,411,positive
+347,user_73,2024-10-22 17:21:32.921145,I've seen this before.,68,neutral
+348,user_68,2024-11-02 02:53:35.921145,So inspiring!,3685,positive
+349,user_25,2025-01-04 18:14:20.921145,This makes me sad.,136,negative
+350,user_3,2025-01-14 14:42:04.921145,I'm so happy to see this!,591,positive
+351,user_56,2024-10-12 18:41:56.921145,No strong feelings.,2906,neutral
+352,user_5,2024-10-30 21:51:32.921145,This makes me sad.,2111,negative
+353,user_70,2024-10-28 01:20:32.921145,Fantastic!,3751,positive
+354,user_17,2024-12-12 15:26:00.921145,I hate this!,2107,negative
+355,user_24,2025-02-27 03:35:04.921145,Just another post.,3274,neutral
+356,user_60,2025-01-15 16:32:27.921145,So inspiring!,452,positive
+357,user_32,2024-12-07 18:28:26.921145,This made my day!,667,positive
+358,user_52,2024-11-07 12:00:53.921145,Meh.,1827,neutral
+359,user_30,2025-01-31 20:07:18.921145,This is awesome!,4621,positive
+360,user_77,2025-01-07 06:55:13.921145,This is awful.,3947,negative
+361,user_3,2024-11-21 22:31:53.921145,This is awful.,2364,negative
+362,user_52,2025-02-13 03:56:05.921145,This is awesome!,1002,positive
+363,user_36,2024-12-08 10:18:47.921145,Average post.,4719,neutral
+364,user_36,2025-01-12 06:13:51.921145,Not a fan at all.,4868,negative
+365,user_39,2025-01-05 16:22:27.921145,So disappointing!,2984,negative
+366,user_32,2024-10-15 08:41:51.921145,Really bad experience.,578,negative
+367,user_15,2024-12-01 03:00:46.921145,This is awesome!,1131,positive
+368,user_7,2025-01-01 07:08:09.921145,I've seen this before.,3243,neutral
+369,user_26,2024-09-26 01:51:35.921145,I love this!,4629,positive
+370,user_67,2024-11-03 21:14:09.921145,Keep it up!,4699,positive
+371,user_16,2024-09-29 16:16:26.921145,I hate this!,3733,negative
+372,user_31,2024-09-11 23:10:06.921145,So disappointing!,208,negative
+373,user_59,2024-09-07 00:40:26.921145,I've seen this before.,228,neutral
+374,user_80,2025-01-25 01:06:42.921145,Worst ever!,4551,negative
+375,user_1,2024-12-20 02:00:53.921145,Not sure what to say.,1497,neutral
+376,user_91,2025-01-24 15:32:01.921145,Amazing work!,1181,positive
+377,user_98,2025-02-02 10:55:14.921145,It's okay.,1207,neutral
+378,user_18,2025-02-07 23:48:36.921145,I love this!,4230,positive
+379,user_25,2025-01-20 17:02:54.921145,I can't believe this...,4220,negative
+380,user_33,2025-02-23 14:51:25.921145,This made my day!,1232,positive
+381,user_64,2025-02-19 10:55:48.921145,I hate this!,1121,negative
+382,user_55,2024-11-05 04:16:05.921145,No strong feelings.,180,neutral
+383,user_98,2025-01-25 15:31:11.921145,This made my day!,4990,positive
+384,user_40,2024-12-28 08:57:14.921145,I love this!,2071,positive
+385,user_44,2024-11-21 00:39:17.921145,Keep it up!,925,positive
+386,user_67,2024-11-05 05:35:44.921145,This is awesome!,302,positive
+387,user_15,2024-11-30 14:46:32.921145,Fantastic!,3377,positive
+388,user_3,2024-09-08 16:24:14.921145,No strong feelings.,3876,neutral
+389,user_46,2024-11-12 17:59:10.921145,This makes me sad.,2758,negative
+390,user_5,2024-11-24 20:47:20.921145,Just another post.,2688,neutral
+391,user_28,2025-02-03 14:35:14.921145,Best thing ever!,734,positive
+392,user_32,2024-12-01 08:14:44.921145,It's fine.,2148,neutral
+393,user_86,2024-11-06 01:26:43.921145,Best thing ever!,3831,positive
+394,user_9,2024-12-17 16:18:16.921145,Just another post.,1511,neutral
+395,user_80,2025-02-09 04:58:21.921145,So disappointing!,4915,negative
+396,user_36,2024-09-20 04:10:23.921145,I hate this!,1097,negative
+397,user_46,2025-02-13 19:46:22.921145,I hate this!,4462,negative
+398,user_72,2024-11-04 12:59:20.921145,I love this!,4742,positive
+399,user_14,2025-02-04 06:53:57.921145,This is awful.,4264,negative
+400,user_7,2024-10-20 04:32:53.921145,Could be better.,4060,neutral
+401,user_22,2024-10-10 17:59:56.921145,Average post.,1941,neutral
+402,user_37,2024-11-17 08:57:22.921145,I'm so happy to see this!,3971,positive
+403,user_9,2024-11-11 21:59:32.921145,This makes me sad.,1782,negative
+404,user_42,2025-02-15 09:46:11.921145,This made my day!,3393,positive
+405,user_98,2024-10-12 18:48:42.921145,Not sure what to say.,2447,neutral
+406,user_76,2024-10-04 04:02:53.921145,Amazing work!,3723,positive
+407,user_25,2024-12-19 07:12:14.921145,I hate this!,2259,negative
+408,user_5,2024-12-31 07:25:16.921145,Keep it up!,1477,positive
+409,user_52,2025-01-21 04:49:06.921145,It's okay.,1446,neutral
+410,user_39,2024-09-09 18:55:23.921145,Not a fan at all.,3067,negative
+411,user_67,2024-12-22 08:57:47.921145,This makes me sad.,4723,negative
+412,user_24,2024-10-15 09:01:28.921145,This is terrible!,3533,negative
+413,user_96,2025-01-06 09:49:13.921145,Just another post.,2519,neutral
+414,user_41,2024-12-21 05:51:35.921145,Keep it up!,2828,positive
+415,user_12,2025-02-27 03:03:14.921145,Average post.,410,neutral
+416,user_18,2025-02-06 00:50:09.921145,Horrible!,3829,negative
+417,user_60,2024-09-07 10:41:41.921145,Keep it up!,3081,positive
+418,user_99,2025-02-03 20:35:35.921145,Absolutely stunning!,4761,positive
+419,user_89,2024-10-30 21:44:08.921145,Keep it up!,1053,positive
+420,user_31,2024-12-29 20:15:09.921145,I love this!,324,positive
+421,user_48,2025-01-09 21:22:07.921145,I can't believe this...,4349,negative
+422,user_79,2024-09-24 15:22:29.921145,Not sure what to say.,4762,neutral
+423,user_8,2024-11-23 11:53:01.921145,I can't believe this...,2392,negative
+424,user_65,2024-09-22 09:43:10.921145,Absolutely stunning!,4045,positive
+425,user_95,2024-10-06 18:01:37.921145,Really bad experience.,3314,negative
+426,user_93,2024-12-19 05:59:32.921145,Really bad experience.,3930,negative
+427,user_57,2024-11-03 08:00:21.921145,Keep it up!,2235,positive
+428,user_69,2024-11-03 23:20:54.921145,This made my day!,2327,positive
+429,user_82,2025-02-28 12:16:28.921145,Not a fan at all.,3895,negative
+430,user_67,2024-12-03 12:42:48.921145,Amazing work!,3535,positive
+431,user_18,2024-12-02 01:18:52.921145,I can't believe this...,2015,negative
+432,user_76,2024-11-23 03:19:08.921145,Amazing work!,3290,positive
+433,user_69,2024-12-27 12:13:29.921145,I can't believe this...,479,negative
+434,user_93,2025-02-19 10:24:52.921145,This is terrible!,1036,negative
+435,user_42,2024-11-24 22:23:13.921145,This makes me sad.,3916,negative
+436,user_91,2024-11-04 23:46:48.921145,This is awful.,705,negative
+437,user_85,2024-12-08 05:00:13.921145,I can't believe this...,4581,negative
+438,user_64,2024-09-13 15:34:27.921145,Horrible!,3897,negative
+439,user_32,2025-01-17 02:25:04.921145,I'm so happy to see this!,1600,positive
+440,user_10,2024-10-22 00:41:39.921145,Horrible!,3402,negative
+441,user_19,2024-12-13 11:02:32.921145,I've seen this before.,3749,neutral
+442,user_70,2024-10-19 22:05:42.921145,Nothing special.,61,neutral
+443,user_28,2024-12-20 23:56:55.921145,I love this!,1096,positive
+444,user_43,2025-02-02 13:23:17.921145,No strong feelings.,3329,neutral
+445,user_93,2024-12-20 20:38:08.921145,This is awful.,4811,negative
+446,user_68,2025-01-08 12:01:30.921145,This makes me sad.,4575,negative
+447,user_39,2025-02-07 10:22:40.921145,This is awesome!,4227,positive
+448,user_21,2025-01-29 12:42:32.921145,This is terrible!,2591,negative
+449,user_25,2024-12-31 11:15:24.921145,Worst ever!,1920,negative
+450,user_8,2024-12-01 00:07:19.921145,So disappointing!,4867,negative
+451,user_28,2025-01-22 20:44:44.921145,Not sure what to say.,633,neutral
+452,user_42,2024-09-17 02:05:32.921145,Average post.,2433,neutral
+453,user_14,2025-01-29 15:39:50.921145,Meh.,1881,neutral
+454,user_87,2024-11-08 02:30:19.921145,So disappointing!,1723,negative
+455,user_65,2024-09-21 10:23:43.921145,This is awesome!,3726,positive
+456,user_36,2025-02-01 20:51:31.921145,Not sure what to say.,826,neutral
+457,user_14,2024-10-26 23:21:38.921145,So inspiring!,259,positive
+458,user_39,2024-11-02 21:04:36.921145,Not sure what to say.,418,neutral
+459,user_38,2025-01-31 17:11:32.921145,It's okay.,580,neutral
+460,user_83,2024-12-22 16:48:56.921145,Really bad experience.,1374,negative
+461,user_79,2025-01-13 13:08:00.921145,This made my day!,4923,positive
+462,user_68,2025-02-21 20:37:43.921145,This is awesome!,4323,positive
+463,user_25,2024-12-10 05:25:32.921145,So disappointing!,4388,negative
+464,user_48,2024-10-19 21:19:56.921145,This made my day!,822,positive
+465,user_34,2024-12-28 15:39:47.921145,I can't believe this...,156,negative
+466,user_57,2024-10-25 15:17:36.921145,I hate this!,3662,negative
+467,user_37,2024-10-24 11:25:05.921145,I can't believe this...,771,negative
+468,user_48,2025-03-04 10:18:30.921145,Horrible!,191,negative
+469,user_18,2025-01-18 05:16:07.921145,I've seen this before.,3147,neutral
+470,user_46,2024-11-06 02:05:46.921145,So disappointing!,1908,negative
+471,user_54,2024-09-29 14:51:48.921145,Amazing work!,4582,positive
+472,user_53,2024-10-23 18:37:10.921145,Worst ever!,4425,negative
+473,user_32,2024-09-24 17:05:10.921145,Fantastic!,3343,positive
+474,user_5,2024-11-23 20:10:06.921145,Could be better.,4751,neutral
+475,user_50,2025-01-22 02:42:09.921145,Really bad experience.,2957,negative
+476,user_9,2024-12-12 13:31:08.921145,No strong feelings.,3132,neutral
+477,user_4,2024-11-15 17:25:51.921145,Best thing ever!,3095,positive
+478,user_41,2025-02-23 08:22:37.921145,No strong feelings.,758,neutral
+479,user_26,2025-01-11 08:27:02.921145,This is terrible!,111,negative
+480,user_87,2024-09-12 20:33:23.921145,Not a fan at all.,3305,negative
+481,user_12,2024-10-01 02:55:04.921145,Not sure what to say.,4876,neutral
+482,user_46,2025-01-03 17:18:28.921145,This makes me sad.,4244,negative
+483,user_22,2025-03-01 09:47:02.921145,Not sure what to say.,4973,neutral
+484,user_89,2025-01-03 07:42:07.921145,This made my day!,3298,positive
+485,user_9,2024-10-09 09:16:48.921145,Horrible!,3872,negative
+486,user_44,2025-02-13 03:25:03.921145,It's fine.,327,neutral
+487,user_85,2025-01-05 17:17:07.921145,I've seen this before.,2840,neutral
+488,user_87,2024-09-26 11:23:58.921145,Absolutely stunning!,88,positive
+489,user_29,2024-11-23 03:18:29.921145,I've seen this before.,1959,neutral
+490,user_59,2025-03-01 18:56:44.921145,This is terrible!,4020,negative
+491,user_88,2024-09-26 09:15:27.921145,Horrible!,3704,negative
+492,user_31,2024-11-26 05:07:49.921145,So disappointing!,1995,negative
+493,user_45,2024-09-30 23:40:50.921145,Nothing special.,2686,neutral
+494,user_39,2024-10-18 11:20:17.921145,Really bad experience.,1158,negative
+495,user_44,2024-11-13 06:31:00.921145,This made my day!,4713,positive
+496,user_68,2025-01-07 07:20:08.921145,This is awesome!,4331,positive
+497,user_63,2024-10-02 08:07:28.921145,Just another post.,1909,neutral
+498,user_28,2024-10-01 01:02:38.921145,Amazing work!,530,positive
+499,user_21,2024-12-07 22:42:50.921145,Average post.,3731,neutral
+500,user_65,2025-01-21 21:33:09.921145,So inspiring!,335,positive
+501,user_12,2025-02-25 22:42:26.921145,I hate this!,1809,negative
+502,user_96,2024-10-20 20:28:33.921145,Horrible!,4438,negative
+503,user_5,2024-09-15 14:42:02.921145,It's fine.,4617,neutral
+504,user_22,2025-01-21 04:04:26.921145,I love this!,4252,positive
+505,user_3,2024-09-22 01:27:39.921145,This is terrible!,920,negative
+506,user_92,2024-10-08 16:30:26.921145,I can't believe this...,4753,negative
+507,user_24,2024-11-19 14:54:51.921145,Nothing special.,4730,neutral
+508,user_71,2025-02-23 23:27:49.921145,So disappointing!,1086,negative
+509,user_23,2024-12-09 03:59:50.921145,I hate this!,1517,negative
+510,user_37,2024-12-21 19:34:27.921145,This is terrible!,4884,negative
+511,user_63,2025-01-24 10:04:03.921145,Fantastic!,3859,positive
+512,user_6,2025-01-12 04:49:32.921145,Average post.,2102,neutral
+513,user_40,2024-09-22 10:21:21.921145,Worst ever!,967,negative
+514,user_28,2024-12-31 20:31:42.921145,So inspiring!,2375,positive
+515,user_17,2024-09-11 06:15:21.921145,Just another post.,2106,neutral
+516,user_96,2024-10-28 14:58:16.921145,Keep it up!,4751,positive
+517,user_34,2024-09-15 19:11:33.921145,I can't believe this...,1264,negative
+518,user_41,2024-11-15 07:03:23.921145,I'm so happy to see this!,1382,positive
+519,user_16,2025-01-20 01:55:29.921145,So disappointing!,2905,negative
+520,user_83,2025-01-22 16:12:07.921145,Really bad experience.,4437,negative
+521,user_5,2025-01-11 15:01:24.921145,Really bad experience.,2418,negative
+522,user_94,2024-10-18 04:36:48.921145,No strong feelings.,3760,neutral
+523,user_80,2024-09-15 15:20:03.921145,Horrible!,2385,negative
+524,user_35,2024-12-26 03:20:05.921145,Horrible!,3157,negative
+525,user_7,2024-10-07 21:18:25.921145,This makes me sad.,179,negative
+526,user_18,2024-09-22 05:23:41.921145,I've seen this before.,105,neutral
+527,user_24,2024-12-30 14:08:35.921145,So disappointing!,1427,negative
+528,user_11,2024-12-03 08:24:11.921145,Fantastic!,4158,positive
+529,user_13,2024-10-01 22:59:36.921145,I'm so happy to see this!,1452,positive
+530,user_52,2025-02-21 14:19:50.921145,This makes me sad.,645,negative
+531,user_69,2024-09-10 00:45:13.921145,Could be better.,64,neutral
+532,user_22,2025-01-26 09:43:25.921145,I'm so happy to see this!,3745,positive
+533,user_93,2025-02-21 11:12:52.921145,I'm so happy to see this!,3668,positive
+534,user_55,2025-02-25 07:52:01.921145,I've seen this before.,3549,neutral
+535,user_39,2025-01-22 18:08:06.921145,So inspiring!,1929,positive
+536,user_9,2025-02-19 23:20:22.921145,This is awesome!,1716,positive
+537,user_43,2025-02-03 00:27:32.921145,It's okay.,1778,neutral
+538,user_39,2025-01-08 01:51:56.921145,I can't believe this...,662,negative
+539,user_86,2024-10-05 13:15:24.921145,It's fine.,3585,neutral
+540,user_12,2024-09-21 08:46:01.921145,This is awesome!,272,positive
+541,user_94,2024-10-21 11:11:40.921145,No strong feelings.,827,neutral
+542,user_93,2024-09-20 13:31:01.921145,I hate this!,4930,negative
+543,user_88,2024-10-23 07:23:49.921145,Best thing ever!,1041,positive
+544,user_23,2025-02-18 01:18:47.921145,Nothing special.,622,neutral
+545,user_49,2024-11-06 13:29:03.921145,Really bad experience.,398,negative
+546,user_48,2025-01-08 18:36:00.921145,It's fine.,3892,neutral
+547,user_29,2025-01-02 01:42:40.921145,I hate this!,4881,negative
+548,user_51,2024-09-16 16:05:05.921145,Meh.,3389,neutral
+549,user_79,2025-01-31 04:05:48.921145,Worst ever!,386,negative
+550,user_6,2024-12-10 09:44:17.921145,Not a fan at all.,3821,negative
+551,user_58,2025-01-06 12:24:25.921145,Just another post.,1141,neutral
+552,user_36,2024-09-06 10:38:16.921145,Not a fan at all.,2219,negative
+553,user_37,2024-09-25 17:06:09.921145,Absolutely stunning!,2566,positive
+554,user_96,2024-12-26 22:37:16.921145,This is awful.,4302,negative
+555,user_78,2025-02-19 03:01:29.921145,Amazing work!,4952,positive
+556,user_75,2025-01-28 15:54:54.921145,This is awful.,4205,negative
+557,user_13,2025-01-12 16:55:01.921145,No strong feelings.,1224,neutral
+558,user_99,2025-01-01 04:08:27.921145,Could be better.,1451,neutral
+559,user_73,2024-11-28 14:54:15.921145,I'm so happy to see this!,3783,positive
+560,user_53,2024-12-04 08:03:08.921145,Really bad experience.,2520,negative
+561,user_83,2024-11-30 14:27:38.921145,I love this!,3253,positive
+562,user_91,2024-12-10 03:34:32.921145,Horrible!,4954,negative
+563,user_54,2024-11-26 01:33:52.921145,Meh.,2673,neutral
+564,user_76,2024-12-13 00:53:42.921145,This makes me sad.,42,negative
+565,user_83,2024-09-30 14:11:35.921145,I love this!,1588,positive
+566,user_27,2025-01-07 18:32:24.921145,Really bad experience.,1639,negative
+567,user_14,2024-09-22 22:15:11.921145,So inspiring!,4082,positive
+568,user_57,2025-02-16 06:39:29.921145,Nothing special.,722,neutral
+569,user_33,2025-02-23 04:00:31.921145,Amazing work!,1746,positive
+570,user_21,2025-03-04 12:08:18.921145,Average post.,1378,neutral
+571,user_75,2024-10-23 21:33:02.921145,Keep it up!,3765,positive
+572,user_49,2024-10-16 23:36:42.921145,So disappointing!,4229,negative
+573,user_40,2025-01-19 12:56:32.921145,Nothing special.,2855,neutral
+574,user_31,2025-02-11 13:06:20.921145,No strong feelings.,615,neutral
+575,user_31,2024-09-20 11:29:45.921145,Horrible!,2130,negative
+576,user_56,2024-09-27 17:59:14.921145,Absolutely stunning!,3333,positive
+577,user_78,2024-10-31 23:37:26.921145,Absolutely stunning!,2761,positive
+578,user_85,2024-12-29 14:08:04.921145,This is awesome!,3048,positive
+579,user_5,2025-02-21 08:05:44.921145,I love this!,3554,positive
+580,user_32,2024-12-01 07:48:54.921145,Worst ever!,763,negative
+581,user_80,2024-10-14 00:11:15.921145,Nothing special.,2863,neutral
+582,user_28,2024-10-25 01:37:25.921145,Worst ever!,42,negative
+583,user_34,2024-10-19 18:26:13.921145,Horrible!,4067,negative
+584,user_53,2024-10-19 06:32:59.921145,It's fine.,1630,neutral
+585,user_66,2025-01-27 16:19:04.921145,Amazing work!,2784,positive
+586,user_20,2024-12-09 19:29:42.921145,I love this!,3761,positive
+587,user_61,2024-12-25 13:02:35.921145,Really bad experience.,1255,negative
+588,user_34,2024-09-26 14:09:20.921145,So disappointing!,770,negative
+589,user_29,2025-01-24 21:35:02.921145,Best thing ever!,1691,positive
+590,user_67,2024-11-08 01:41:27.921145,I'm so happy to see this!,3141,positive
+591,user_18,2024-11-30 23:14:29.921145,I hate this!,2025,negative
+592,user_9,2024-09-25 08:14:04.921145,It's okay.,3292,neutral
+593,user_55,2024-12-25 01:12:56.921145,So disappointing!,1102,negative
+594,user_15,2024-09-25 08:48:30.921145,Meh.,2651,neutral
+595,user_32,2025-01-24 04:14:15.921145,Not a fan at all.,2305,negative
+596,user_51,2025-01-28 16:07:18.921145,Fantastic!,192,positive
+597,user_21,2024-10-06 00:57:33.921145,I'm so happy to see this!,4239,positive
+598,user_92,2024-11-09 23:40:48.921145,It's fine.,177,neutral
+599,user_32,2024-09-21 01:04:26.921145,Average post.,78,neutral
+600,user_55,2024-10-01 10:49:59.921145,Really bad experience.,1966,negative
+601,user_85,2025-03-01 02:45:15.921145,Meh.,3829,neutral
+602,user_33,2025-01-12 05:52:04.921145,This is awesome!,2055,positive
+603,user_49,2024-09-07 09:09:01.921145,I love this!,1368,positive
+604,user_92,2024-12-04 08:00:35.921145,Really bad experience.,1637,negative
+605,user_18,2025-01-11 12:35:29.921145,It's okay.,3194,neutral
+606,user_20,2024-10-15 21:05:44.921145,It's okay.,2161,neutral
+607,user_46,2024-09-12 19:08:52.921145,This made my day!,645,positive
+608,user_97,2024-12-08 17:19:52.921145,Worst ever!,1581,negative
+609,user_47,2024-11-11 12:15:08.921145,This makes me sad.,1835,negative
+610,user_44,2025-01-14 20:13:26.921145,This makes me sad.,3072,negative
+611,user_100,2024-09-27 00:01:34.921145,Absolutely stunning!,3945,positive
+612,user_74,2025-01-01 12:27:03.921145,Just another post.,2893,neutral
+613,user_30,2024-10-05 03:01:15.921145,Amazing work!,4292,positive
+614,user_65,2025-03-03 13:04:55.921145,This is terrible!,4111,negative
+615,user_70,2024-10-09 06:58:21.921145,Just another post.,1455,neutral
+616,user_97,2025-01-26 08:49:27.921145,Could be better.,1865,neutral
+617,user_52,2024-10-06 16:03:26.921145,So disappointing!,2040,negative
+618,user_53,2024-11-04 23:37:03.921145,I hate this!,4310,negative
+619,user_89,2024-11-21 06:55:33.921145,This is terrible!,3370,negative
+620,user_63,2024-09-08 23:19:49.921145,Could be better.,4878,neutral
+621,user_42,2024-10-15 15:03:54.921145,Average post.,1283,neutral
+622,user_54,2024-12-13 05:57:42.921145,Nothing special.,2689,neutral
+623,user_45,2024-09-30 13:07:16.921145,Absolutely stunning!,788,positive
+624,user_85,2024-11-13 23:51:11.921145,It's okay.,732,neutral
+625,user_87,2024-11-28 08:02:34.921145,Horrible!,4998,negative
+626,user_6,2024-10-14 15:57:59.921145,Amazing work!,432,positive
+627,user_42,2024-09-20 14:56:55.921145,No strong feelings.,4277,neutral
+628,user_50,2024-12-03 08:16:08.921145,It's okay.,1149,neutral
+629,user_65,2024-12-28 14:39:36.921145,This is terrible!,822,negative
+630,user_20,2025-02-19 15:56:03.921145,Amazing work!,4992,positive
+631,user_12,2024-11-29 12:25:10.921145,It's fine.,3910,neutral
+632,user_4,2024-11-20 14:53:07.921145,Fantastic!,3123,positive
+633,user_92,2024-11-20 12:41:12.921145,This makes me sad.,2580,negative
+634,user_83,2024-10-15 05:33:54.921145,Worst ever!,773,negative
+635,user_22,2024-12-12 01:57:53.921145,I can't believe this...,2257,negative
+636,user_12,2024-10-17 19:59:27.921145,No strong feelings.,800,neutral
+637,user_85,2025-03-04 14:08:27.921145,Fantastic!,3603,positive
+638,user_53,2025-01-02 19:43:21.921145,It's fine.,1437,neutral
+639,user_93,2024-11-23 16:06:40.921145,Not a fan at all.,1440,negative
+640,user_2,2025-01-12 04:59:40.921145,It's fine.,4097,neutral
+641,user_30,2024-10-17 19:13:25.921145,It's okay.,2164,neutral
+642,user_81,2024-11-19 19:26:40.921145,I've seen this before.,4331,neutral
+643,user_3,2025-02-22 23:04:28.921145,Amazing work!,4564,positive
+644,user_74,2025-02-26 04:36:07.921145,Not sure what to say.,4534,neutral
+645,user_17,2024-11-12 09:48:50.921145,Nothing special.,4640,neutral
+646,user_98,2024-10-12 22:09:24.921145,Amazing work!,4771,positive
+647,user_83,2024-12-15 03:57:05.921145,So disappointing!,342,negative
+648,user_49,2024-12-31 08:32:20.921145,I'm so happy to see this!,280,positive
+649,user_37,2025-01-02 09:22:57.921145,Best thing ever!,3360,positive
+650,user_39,2025-03-03 15:35:07.921145,Really bad experience.,413,negative
+651,user_72,2024-10-29 22:48:23.921145,This is awful.,1330,negative
+652,user_81,2025-02-19 14:41:02.921145,Amazing work!,2376,positive
+653,user_60,2025-01-14 10:59:47.921145,So disappointing!,564,negative
+654,user_82,2024-11-13 01:58:42.921145,So inspiring!,317,positive
+655,user_2,2025-01-03 22:25:43.921145,Average post.,3904,neutral
+656,user_95,2024-11-02 01:14:35.921145,This is terrible!,1307,negative
+657,user_30,2025-02-07 11:08:41.921145,I'm so happy to see this!,4765,positive
+658,user_2,2024-11-02 14:58:13.921145,This is awful.,234,negative
+659,user_76,2025-02-01 11:08:42.921145,Worst ever!,3893,negative
+660,user_11,2024-12-30 07:05:12.921145,Just another post.,2699,neutral
+661,user_18,2024-10-04 11:39:06.921145,Amazing work!,3178,positive
+662,user_25,2025-01-10 07:54:51.921145,Nothing special.,3583,neutral
+663,user_3,2024-09-25 15:09:07.921145,Horrible!,4539,negative
+664,user_89,2024-11-11 10:34:32.921145,Keep it up!,1845,positive
+665,user_19,2025-01-07 13:00:49.921145,Could be better.,961,neutral
+666,user_10,2024-12-14 08:39:43.921145,Absolutely stunning!,4208,positive
+667,user_4,2024-09-18 21:52:29.921145,Really bad experience.,170,negative
+668,user_33,2024-11-08 06:47:11.921145,This makes me sad.,2195,negative
+669,user_100,2024-11-10 01:59:00.921145,Not sure what to say.,1031,neutral
+670,user_49,2024-10-23 07:32:42.921145,Best thing ever!,4303,positive
+671,user_43,2024-10-29 01:20:51.921145,Nothing special.,2895,neutral
+672,user_45,2025-01-13 16:24:45.921145,Worst ever!,4239,negative
+673,user_48,2024-11-29 03:45:25.921145,Really bad experience.,2380,negative
+674,user_20,2025-01-06 19:54:42.921145,Horrible!,1520,negative
+675,user_25,2024-11-21 07:25:55.921145,Not sure what to say.,70,neutral
+676,user_40,2024-09-26 03:47:08.921145,Nothing special.,3689,neutral
+677,user_12,2024-11-03 08:01:11.921145,It's fine.,1238,neutral
+678,user_31,2024-12-16 20:34:43.921145,It's fine.,4062,neutral
+679,user_44,2024-09-21 19:13:31.921145,Not sure what to say.,4954,neutral
+680,user_27,2024-09-28 14:03:07.921145,Not sure what to say.,1165,neutral
+681,user_6,2025-01-28 22:27:21.921145,This is awful.,3330,negative
+682,user_12,2024-11-12 01:43:19.921145,Could be better.,4700,neutral
+683,user_69,2024-10-08 01:51:28.921145,Amazing work!,1498,positive
+684,user_59,2025-01-01 00:16:21.921145,So disappointing!,1470,negative
+685,user_74,2024-09-07 18:25:23.921145,This made my day!,2029,positive
+686,user_40,2024-09-23 01:16:32.921145,Nothing special.,2555,neutral
+687,user_3,2025-02-07 12:48:30.921145,I've seen this before.,217,neutral
+688,user_23,2024-09-08 09:03:55.921145,This is awful.,2829,negative
+689,user_48,2025-02-07 08:58:02.921145,Worst ever!,1432,negative
+690,user_78,2025-03-05 03:43:44.921145,Nothing special.,331,neutral
+691,user_18,2024-12-20 11:53:22.921145,So disappointing!,4951,negative
+692,user_78,2024-11-18 00:20:54.921145,I hate this!,2303,negative
+693,user_88,2024-10-22 09:48:55.921145,Best thing ever!,3178,positive
+694,user_35,2025-02-02 22:44:37.921145,It's okay.,2678,neutral
+695,user_15,2024-12-22 13:03:44.921145,Could be better.,2002,neutral
+696,user_67,2025-01-29 11:49:24.921145,Not a fan at all.,2993,negative
+697,user_93,2024-12-16 09:36:53.921145,This is awesome!,2627,positive
+698,user_59,2025-01-15 11:15:27.921145,So disappointing!,3230,negative
+699,user_91,2024-10-09 07:42:18.921145,No strong feelings.,1873,neutral
+700,user_39,2024-09-23 12:24:34.921145,I'm so happy to see this!,3677,positive
+701,user_17,2025-02-28 00:18:58.921145,No strong feelings.,3273,neutral
+702,user_100,2025-02-11 21:18:01.921145,I love this!,3052,positive
+703,user_1,2024-09-27 17:11:43.921145,It's okay.,4939,neutral
+704,user_61,2024-10-06 09:51:44.921145,Just another post.,3478,neutral
+705,user_18,2025-01-27 19:19:19.921145,I love this!,2160,positive
+706,user_41,2024-10-05 19:33:38.921145,Amazing work!,2004,positive
+707,user_71,2024-10-07 07:32:46.921145,It's okay.,508,neutral
+708,user_30,2025-02-15 06:46:06.921145,Not sure what to say.,1285,neutral
+709,user_82,2024-12-05 23:48:54.921145,This is awful.,3260,negative
+710,user_42,2024-09-26 18:09:23.921145,Could be better.,273,neutral
+711,user_95,2024-09-12 15:51:12.921145,Really bad experience.,68,negative
+712,user_94,2025-01-20 18:17:28.921145,I've seen this before.,2321,neutral
+713,user_29,2025-02-03 00:02:06.921145,Best thing ever!,13,positive
+714,user_46,2025-03-03 17:54:52.921145,Best thing ever!,285,positive
+715,user_19,2024-10-23 21:43:59.921145,Not sure what to say.,2260,neutral
+716,user_8,2024-11-15 00:20:47.921145,Not a fan at all.,3796,negative
+717,user_49,2024-11-02 20:55:16.921145,Meh.,2543,neutral
+718,user_61,2024-11-08 18:59:12.921145,Not a fan at all.,2389,negative
+719,user_25,2024-09-08 22:23:48.921145,Absolutely stunning!,2380,positive
+720,user_67,2025-01-10 00:34:24.921145,I can't believe this...,3111,negative
+721,user_56,2025-02-24 07:20:16.921145,I'm so happy to see this!,1448,positive
+722,user_95,2025-01-22 00:20:45.921145,Best thing ever!,4896,positive
+723,user_90,2024-10-05 00:46:05.921145,Could be better.,1673,neutral
+724,user_28,2024-10-25 06:18:25.921145,Not a fan at all.,3859,negative
+725,user_15,2025-02-20 13:42:06.921145,Amazing work!,1103,positive
+726,user_5,2024-09-14 19:34:17.921145,So disappointing!,3223,negative
+727,user_70,2025-03-01 00:59:29.921145,This makes me sad.,2365,negative
+728,user_72,2025-02-20 06:37:33.921145,Fantastic!,2081,positive
+729,user_74,2024-09-10 18:03:49.921145,Worst ever!,2641,negative
+730,user_12,2025-01-02 10:52:39.921145,This made my day!,2883,positive
+731,user_77,2024-10-27 03:27:05.921145,Average post.,879,neutral
+732,user_39,2024-09-11 08:56:28.921145,Meh.,1998,neutral
+733,user_94,2025-01-28 06:23:13.921145,Nothing special.,418,neutral
+734,user_99,2024-12-18 03:10:30.921145,Could be better.,1196,neutral
+735,user_62,2024-09-08 22:26:28.921145,This is awful.,2980,negative
+736,user_45,2024-09-25 06:28:35.921145,This is awful.,432,negative
+737,user_15,2024-12-05 02:52:46.921145,It's okay.,4159,neutral
+738,user_92,2024-09-08 11:58:40.921145,Worst ever!,1074,negative
+739,user_75,2024-11-05 17:33:49.921145,I love this!,94,positive
+740,user_3,2024-12-25 14:58:15.921145,So disappointing!,1923,negative
+741,user_86,2024-12-30 20:52:17.921145,Worst ever!,1055,negative
+742,user_1,2025-03-04 07:35:17.921145,I hate this!,4234,negative
+743,user_38,2025-01-16 03:26:36.921145,Meh.,1554,neutral
+744,user_17,2024-12-06 06:42:06.921145,Best thing ever!,1825,positive
+745,user_29,2025-01-19 16:39:55.921145,Not a fan at all.,2706,negative
+746,user_62,2024-10-17 16:38:47.921145,Meh.,4377,neutral
+747,user_93,2024-09-29 16:34:02.921145,It's fine.,2963,neutral
+748,user_15,2024-11-04 07:33:06.921145,Absolutely stunning!,1381,positive
+749,user_70,2025-02-05 11:10:46.921145,Best thing ever!,3622,positive
+750,user_100,2024-10-06 02:28:51.921145,This made my day!,4306,positive
+751,user_44,2024-12-22 10:26:43.921145,Fantastic!,1117,positive
+752,user_41,2025-01-23 23:35:50.921145,Really bad experience.,3499,negative
+753,user_75,2025-01-09 09:29:46.921145,It's fine.,685,neutral
+754,user_94,2025-02-20 23:04:03.921145,This is awful.,752,negative
+755,user_56,2024-11-19 01:51:44.921145,I can't believe this...,3435,negative
+756,user_18,2024-11-02 12:08:22.921145,It's okay.,4418,neutral
+757,user_18,2025-01-31 02:41:28.921145,Could be better.,4738,neutral
+758,user_78,2025-01-02 00:51:31.921145,So disappointing!,4913,negative
+759,user_66,2024-10-25 10:58:44.921145,Fantastic!,1329,positive
+760,user_40,2025-02-24 12:36:28.921145,Worst ever!,3282,negative
+761,user_39,2025-01-16 11:47:54.921145,So inspiring!,2985,positive
+762,user_82,2024-09-14 05:43:32.921145,Horrible!,1775,negative
+763,user_46,2024-10-12 00:40:07.921145,Best thing ever!,1038,positive
+764,user_12,2024-10-04 03:20:42.921145,It's okay.,3864,neutral
+765,user_11,2024-11-12 10:31:19.921145,Meh.,2773,neutral
+766,user_96,2024-12-28 12:07:24.921145,This is terrible!,3341,negative
+767,user_25,2024-09-28 06:58:54.921145,This makes me sad.,4835,negative
+768,user_16,2025-01-30 09:30:33.921145,Could be better.,1428,neutral
+769,user_59,2025-02-16 18:18:37.921145,Not a fan at all.,2860,negative
+770,user_41,2024-12-29 06:56:40.921145,I love this!,283,positive
+771,user_5,2025-02-22 20:34:20.921145,This is awesome!,631,positive
+772,user_1,2024-12-29 11:20:13.921145,Fantastic!,1639,positive
+773,user_79,2024-12-09 22:43:23.921145,This made my day!,1729,positive
+774,user_52,2024-11-04 18:15:07.921145,Meh.,699,neutral
+775,user_66,2025-02-04 09:49:22.921145,Keep it up!,1801,positive
+776,user_61,2024-11-27 23:30:31.921145,I can't believe this...,132,negative
+777,user_15,2024-10-28 20:43:39.921145,Worst ever!,1282,negative
+778,user_3,2024-12-30 07:38:00.921145,So inspiring!,1579,positive
+779,user_58,2024-10-18 22:32:29.921145,I can't believe this...,1285,negative
+780,user_30,2024-11-18 19:46:43.921145,Just another post.,189,neutral
+781,user_21,2024-10-06 19:37:15.921145,I've seen this before.,1073,neutral
+782,user_75,2024-09-05 15:49:22.921145,I hate this!,3235,negative
+783,user_98,2024-11-07 07:30:30.921145,Keep it up!,988,positive
+784,user_25,2024-09-17 05:05:08.921145,Keep it up!,2580,positive
+785,user_4,2025-02-10 01:56:01.921145,This made my day!,491,positive
+786,user_84,2025-01-11 05:32:52.921145,Really bad experience.,560,negative
+787,user_9,2025-02-15 11:22:29.921145,Worst ever!,3288,negative
+788,user_72,2024-12-28 16:01:43.921145,Just another post.,3388,neutral
+789,user_71,2025-01-11 15:41:10.921145,It's okay.,3570,neutral
+790,user_21,2024-12-05 09:41:22.921145,It's okay.,1005,neutral
+791,user_17,2025-01-09 15:46:58.921145,So inspiring!,4535,positive
+792,user_36,2025-02-19 14:27:20.921145,I love this!,1854,positive
+793,user_66,2024-12-14 20:36:44.921145,I've seen this before.,1188,neutral
+794,user_63,2024-12-19 03:24:05.921145,Amazing work!,3658,positive
+795,user_14,2025-01-30 19:58:13.921145,Meh.,4946,neutral
+796,user_80,2024-11-14 06:53:46.921145,So disappointing!,4461,negative
+797,user_6,2024-12-18 06:53:47.921145,I've seen this before.,1876,neutral
+798,user_50,2024-09-16 12:37:29.921145,No strong feelings.,803,neutral
+799,user_24,2024-11-27 13:17:28.921145,Could be better.,145,neutral
+800,user_3,2024-11-04 07:07:26.921145,Really bad experience.,4297,negative
+801,user_51,2024-12-29 16:04:54.921145,No strong feelings.,3093,neutral
+802,user_21,2024-09-17 08:34:40.921145,I'm so happy to see this!,2830,positive
+803,user_48,2024-10-02 05:52:34.921145,This is awesome!,4558,positive
+804,user_90,2025-02-26 04:18:33.921145,I've seen this before.,3673,neutral
+805,user_62,2024-09-24 10:17:32.921145,Absolutely stunning!,4332,positive
+806,user_60,2024-09-30 14:49:22.921145,Average post.,1360,neutral
+807,user_27,2024-10-18 04:10:24.921145,Absolutely stunning!,1348,positive
+808,user_71,2024-12-30 17:07:23.921145,Worst ever!,1453,negative
+809,user_37,2024-11-06 20:18:30.921145,Really bad experience.,204,negative
+810,user_91,2024-09-05 12:33:15.921145,Nothing special.,364,neutral
+811,user_67,2024-10-12 09:40:38.921145,So inspiring!,3610,positive
+812,user_97,2024-11-16 17:11:58.921145,Nothing special.,4389,neutral
+813,user_57,2025-02-25 16:51:40.921145,No strong feelings.,1695,neutral
+814,user_8,2024-09-29 22:50:41.921145,Average post.,4035,neutral
+815,user_64,2025-02-04 17:51:52.921145,It's fine.,2586,neutral
+816,user_95,2024-12-10 23:38:29.921145,I've seen this before.,2325,neutral
+817,user_16,2025-02-03 03:36:28.921145,Meh.,4637,neutral
+818,user_79,2024-12-31 20:33:19.921145,Just another post.,2996,neutral
+819,user_60,2024-12-21 14:31:35.921145,So inspiring!,201,positive
+820,user_35,2025-01-02 10:43:39.921145,Amazing work!,4948,positive
+821,user_59,2024-10-15 02:23:55.921145,This is awful.,866,negative
+822,user_18,2024-12-06 03:32:17.921145,Just another post.,3392,neutral
+823,user_12,2024-11-17 22:49:19.921145,Worst ever!,3969,negative
+824,user_6,2025-02-20 01:20:54.921145,Not a fan at all.,54,negative
+825,user_25,2025-02-02 19:23:05.921145,It's fine.,2449,neutral
+826,user_72,2024-11-07 05:31:59.921145,So inspiring!,132,positive
+827,user_32,2024-10-17 15:56:59.921145,I've seen this before.,3278,neutral
+828,user_20,2024-11-27 17:13:07.921145,Nothing special.,4409,neutral
+829,user_50,2025-01-25 05:45:50.921145,Worst ever!,729,negative
+830,user_61,2024-10-24 11:47:18.921145,This is awful.,2451,negative
+831,user_59,2024-10-19 23:18:13.921145,No strong feelings.,1603,neutral
+832,user_30,2025-02-18 18:49:20.921145,It's okay.,1113,neutral
+833,user_52,2024-12-27 07:25:05.921145,This is awesome!,2249,positive
+834,user_18,2025-02-17 18:51:54.921145,It's fine.,1032,neutral
+835,user_24,2024-10-03 04:21:17.921145,This is awesome!,1713,positive
+836,user_25,2024-10-17 05:39:29.921145,Fantastic!,1545,positive
+837,user_32,2024-09-23 14:57:11.921145,Keep it up!,4255,positive
+838,user_38,2024-12-17 19:59:36.921145,So inspiring!,4687,positive
+839,user_51,2025-02-24 23:30:41.921145,Fantastic!,3214,positive
+840,user_74,2025-02-02 12:46:53.921145,Meh.,2209,neutral
+841,user_14,2024-11-11 03:54:36.921145,This is terrible!,3211,negative
+842,user_49,2024-10-30 18:49:02.921145,Horrible!,4933,negative
+843,user_14,2025-03-01 20:06:26.921145,Horrible!,2915,negative
+844,user_25,2024-12-25 07:48:24.921145,This is awesome!,1286,positive
+845,user_56,2025-01-26 14:26:39.921145,Worst ever!,4093,negative
+846,user_40,2024-09-20 08:54:39.921145,Average post.,1797,neutral
+847,user_69,2024-12-02 11:31:19.921145,Amazing work!,2131,positive
+848,user_82,2024-10-28 07:48:57.921145,Not sure what to say.,1089,neutral
+849,user_2,2024-09-18 15:27:36.921145,This is terrible!,1619,negative
+850,user_54,2024-09-18 21:25:28.921145,Keep it up!,924,positive
+851,user_57,2025-01-31 21:31:28.921145,Not a fan at all.,3018,negative
+852,user_46,2025-01-05 13:06:33.921145,Not a fan at all.,2880,negative
+853,user_91,2024-11-07 14:28:33.921145,Could be better.,1567,neutral
+854,user_1,2024-09-24 12:25:31.921145,This is awful.,1887,negative
+855,user_71,2025-02-04 03:25:42.921145,It's okay.,3029,neutral
+856,user_9,2025-03-01 23:57:45.921145,I love this!,4768,positive
+857,user_37,2025-02-15 19:43:47.921145,Amazing work!,673,positive
+858,user_35,2024-11-24 23:24:26.921145,Average post.,4161,neutral
+859,user_67,2024-09-18 01:00:39.921145,I hate this!,3298,negative
+860,user_44,2024-11-04 15:41:47.921145,I'm so happy to see this!,218,positive
+861,user_62,2024-12-02 17:27:43.921145,Horrible!,747,negative
+862,user_97,2025-02-25 20:12:11.921145,I hate this!,3726,negative
+863,user_73,2024-09-08 05:06:01.921145,This is awesome!,1301,positive
+864,user_63,2025-02-24 04:53:49.921145,Worst ever!,258,negative
+865,user_8,2024-12-22 22:36:35.921145,Average post.,1702,neutral
+866,user_84,2025-01-31 08:39:51.921145,It's okay.,4210,neutral
+867,user_46,2025-01-11 11:40:36.921145,It's fine.,729,neutral
+868,user_1,2024-09-20 09:33:42.921145,So disappointing!,4519,negative
+869,user_17,2024-12-10 19:41:52.921145,I love this!,4529,positive
+870,user_21,2025-02-07 09:26:11.921145,Just another post.,377,neutral
+871,user_1,2024-10-13 03:44:33.921145,Really bad experience.,2821,negative
+872,user_5,2025-02-08 09:52:17.921145,Amazing work!,2393,positive
+873,user_20,2024-11-21 21:03:11.921145,Just another post.,3744,neutral
+874,user_48,2025-02-07 05:35:42.921145,This is awesome!,4634,positive
+875,user_66,2025-01-23 22:35:37.921145,This is awful.,2765,negative
+876,user_95,2024-11-20 01:00:37.921145,This makes me sad.,2859,negative
+877,user_54,2024-12-28 06:33:27.921145,So inspiring!,3210,positive
+878,user_71,2024-10-04 10:09:11.921145,This is terrible!,1859,negative
+879,user_29,2024-12-03 23:44:43.921145,Average post.,1948,neutral
+880,user_50,2024-12-27 19:07:38.921145,This makes me sad.,3848,negative
+881,user_49,2025-01-18 03:29:16.921145,No strong feelings.,2520,neutral
+882,user_7,2024-12-07 14:35:13.921145,Just another post.,3323,neutral
+883,user_64,2024-11-28 05:48:44.921145,Absolutely stunning!,2929,positive
+884,user_94,2024-12-26 07:22:33.921145,I love this!,476,positive
+885,user_37,2025-02-03 09:26:36.921145,Fantastic!,2076,positive
+886,user_2,2024-11-14 10:56:45.921145,This made my day!,4734,positive
+887,user_77,2025-02-19 16:34:21.921145,Really bad experience.,2583,negative
+888,user_45,2025-01-11 23:03:35.921145,Average post.,1317,neutral
+889,user_50,2024-10-21 01:24:54.921145,Absolutely stunning!,1640,positive
+890,user_17,2024-09-25 20:12:18.921145,This is awesome!,4577,positive
+891,user_30,2024-12-16 12:24:03.921145,Best thing ever!,2631,positive
+892,user_64,2024-10-03 12:10:22.921145,This made my day!,4091,positive
+893,user_71,2024-10-25 20:05:56.921145,Average post.,767,neutral
+894,user_43,2024-09-14 04:23:29.921145,Meh.,1182,neutral
+895,user_6,2024-10-29 19:41:26.921145,Best thing ever!,3834,positive
+896,user_75,2025-02-28 20:55:14.921145,Absolutely stunning!,3568,positive
+897,user_36,2024-09-08 14:16:36.921145,Horrible!,4127,negative
+898,user_64,2024-10-19 09:13:57.921145,This is awesome!,1361,positive
+899,user_73,2024-12-31 00:53:09.921145,This is awful.,4642,negative
+900,user_82,2024-10-13 06:40:30.921145,Absolutely stunning!,4236,positive
+901,user_70,2024-10-25 04:21:15.921145,Absolutely stunning!,2551,positive
+902,user_87,2024-11-21 01:03:07.921145,Just another post.,2296,neutral
+903,user_90,2024-11-03 02:26:17.921145,This makes me sad.,4585,negative
+904,user_36,2024-12-20 23:24:31.921145,I love this!,2491,positive
+905,user_70,2024-11-29 00:02:19.921145,Could be better.,1758,neutral
+906,user_26,2024-12-30 22:42:26.921145,Could be better.,817,neutral
+907,user_66,2025-02-05 15:09:36.921145,It's fine.,4862,neutral
+908,user_41,2025-01-08 02:44:15.921145,This makes me sad.,3278,negative
+909,user_99,2024-12-20 17:49:07.921145,It's fine.,4995,neutral
+910,user_77,2025-01-22 13:28:22.921145,Amazing work!,454,positive
+911,user_3,2024-12-07 04:12:23.921145,Not a fan at all.,1338,negative
+912,user_23,2024-12-21 08:49:52.921145,Average post.,1075,neutral
+913,user_67,2025-01-16 22:23:48.921145,This makes me sad.,1466,negative
+914,user_39,2024-09-14 16:45:10.921145,Meh.,4433,neutral
+915,user_82,2025-01-10 10:43:23.921145,Just another post.,4859,neutral
+916,user_43,2025-02-03 05:20:53.921145,Fantastic!,4087,positive
+917,user_73,2025-01-04 13:05:45.921145,Fantastic!,3622,positive
+918,user_35,2024-09-16 03:01:41.921145,So disappointing!,2136,negative
+919,user_44,2024-09-14 14:29:57.921145,This is terrible!,4509,negative
+920,user_12,2024-12-07 20:11:48.921145,Nothing special.,4159,neutral
+921,user_78,2025-02-27 15:38:31.921145,This makes me sad.,3756,negative
+922,user_34,2025-02-16 21:14:18.921145,This is awesome!,3641,positive
+923,user_62,2024-12-03 09:59:41.921145,Absolutely stunning!,841,positive
+924,user_74,2024-10-27 17:11:24.921145,This made my day!,1175,positive
+925,user_12,2024-10-21 16:07:20.921145,Not a fan at all.,4196,negative
+926,user_65,2025-01-12 23:09:24.921145,I love this!,4177,positive
+927,user_81,2024-11-18 09:26:21.921145,It's okay.,2841,neutral
+928,user_74,2025-02-25 02:25:35.921145,Could be better.,2294,neutral
+929,user_25,2025-03-02 15:14:08.921145,Not a fan at all.,1603,negative
+930,user_92,2025-01-13 04:25:22.921145,Meh.,3416,neutral
+931,user_80,2024-10-03 00:32:23.921145,This is awful.,3532,negative
+932,user_52,2024-11-02 23:11:48.921145,Not a fan at all.,2813,negative
+933,user_97,2024-10-18 01:57:10.921145,Fantastic!,2165,positive
+934,user_25,2024-12-04 12:16:34.921145,Nothing special.,3307,neutral
+935,user_51,2024-09-09 08:05:17.921145,I've seen this before.,2179,neutral
+936,user_19,2024-12-25 14:21:28.921145,I love this!,968,positive
+937,user_62,2024-12-04 05:27:34.921145,This is awesome!,2134,positive
+938,user_83,2024-09-13 04:28:22.921145,Just another post.,2649,neutral
+939,user_71,2024-09-08 04:38:10.921145,I'm so happy to see this!,4914,positive
+940,user_69,2024-09-28 00:33:45.921145,Horrible!,2466,negative
+941,user_56,2024-09-22 21:42:10.921145,Horrible!,4750,negative
+942,user_15,2024-11-29 09:29:05.921145,Fantastic!,4367,positive
+943,user_34,2025-02-24 03:16:49.921145,Nothing special.,1919,neutral
+944,user_41,2024-10-02 14:01:26.921145,I'm so happy to see this!,4914,positive
+945,user_45,2024-09-05 12:25:57.921145,No strong feelings.,3310,neutral
+946,user_90,2025-01-04 08:17:16.921145,This makes me sad.,1757,negative
+947,user_30,2024-12-16 04:59:12.921145,Just another post.,2809,neutral
+948,user_20,2025-01-13 09:57:40.921145,Not a fan at all.,4907,negative
+949,user_50,2025-01-29 16:08:59.921145,This is terrible!,2528,negative
+950,user_44,2024-12-21 23:18:54.921145,This is awesome!,1930,positive
+951,user_33,2024-12-11 18:41:17.921145,Really bad experience.,2217,negative
+952,user_63,2024-09-30 18:20:37.921145,No strong feelings.,1183,neutral
+953,user_67,2025-02-12 14:53:20.921145,Not a fan at all.,418,negative
+954,user_31,2024-10-17 22:19:30.921145,It's okay.,199,neutral
+955,user_95,2024-09-19 06:48:50.921145,I can't believe this...,2929,negative
+956,user_54,2024-12-30 08:01:06.921145,No strong feelings.,642,neutral
+957,user_95,2024-11-04 06:47:26.921145,Meh.,4610,neutral
+958,user_49,2025-01-21 04:17:23.921145,I'm so happy to see this!,2191,positive
+959,user_5,2024-12-14 14:24:43.921145,Amazing work!,2980,positive
+960,user_91,2024-11-08 10:09:21.921145,Not sure what to say.,185,neutral
+961,user_79,2024-09-10 19:17:16.921145,This is terrible!,2254,negative
+962,user_22,2024-09-13 05:12:09.921145,I'm so happy to see this!,2241,positive
+963,user_99,2025-01-05 14:38:43.921145,I'm so happy to see this!,4271,positive
+964,user_88,2024-11-14 11:54:12.921145,So inspiring!,613,positive
+965,user_59,2024-09-23 15:29:47.921145,This is awesome!,2654,positive
+966,user_12,2025-02-11 02:44:47.921145,No strong feelings.,1998,neutral
+967,user_4,2024-10-04 20:49:15.921145,Not a fan at all.,1051,negative
+968,user_79,2024-11-18 15:44:41.921145,It's fine.,1765,neutral
+969,user_44,2024-12-15 20:52:14.921145,I love this!,4025,positive
+970,user_79,2024-10-19 00:01:55.921145,I'm so happy to see this!,218,positive
+971,user_41,2024-09-20 01:48:36.921145,Just another post.,3368,neutral
+972,user_37,2024-10-17 03:38:44.921145,I'm so happy to see this!,1240,positive
+973,user_72,2024-09-14 10:24:18.921145,Not a fan at all.,1164,negative
+974,user_14,2024-11-04 16:13:31.921145,Just another post.,4186,neutral
+975,user_77,2024-10-31 12:48:54.921145,I've seen this before.,212,neutral
+976,user_81,2024-12-11 22:18:45.921145,Meh.,3920,neutral
+977,user_94,2024-12-25 13:53:04.921145,Fantastic!,2603,positive
+978,user_63,2024-11-30 19:39:27.921145,I love this!,3431,positive
+979,user_14,2025-02-17 07:30:38.921145,This is awesome!,1417,positive
+980,user_80,2024-09-13 07:19:40.921145,Best thing ever!,25,positive
+981,user_40,2024-11-20 01:24:17.921145,I've seen this before.,2072,neutral
+982,user_94,2024-12-25 13:22:57.921145,This made my day!,4658,positive
+983,user_29,2024-12-11 09:14:21.921145,So disappointing!,2702,negative
+984,user_86,2024-12-10 06:33:58.921145,Nothing special.,1269,neutral
+985,user_8,2024-12-21 16:23:32.921145,Amazing work!,1578,positive
+986,user_33,2024-12-08 20:55:36.921145,Average post.,1607,neutral
+987,user_51,2024-09-17 00:22:12.921145,This is awesome!,1173,positive
+988,user_83,2024-09-05 19:32:40.921145,Could be better.,1372,neutral
+989,user_53,2024-10-23 06:57:31.921145,Best thing ever!,4424,positive
+990,user_82,2025-01-11 14:15:07.921145,I'm so happy to see this!,1689,positive
+991,user_77,2024-12-20 06:06:32.921145,Average post.,1711,neutral
+992,user_54,2025-02-25 21:34:01.921145,No strong feelings.,555,neutral
+993,user_86,2024-11-07 14:51:05.921145,Could be better.,4359,neutral
+994,user_45,2025-01-19 06:16:07.921145,So disappointing!,2458,negative
+995,user_84,2024-09-11 07:55:54.921145,Worst ever!,4935,negative
+996,user_92,2024-10-29 01:37:32.921145,Meh.,1747,neutral
+997,user_27,2025-02-20 02:32:21.921145,This makes me sad.,1118,negative
+998,user_8,2024-12-01 12:34:27.921145,Meh.,3199,neutral
+999,user_64,2024-10-15 23:59:30.921145,Absolutely stunning!,4855,positive
+1000,user_82,2025-01-23 03:06:23.921145,So disappointing!,1977,negative
